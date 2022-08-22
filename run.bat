@@ -2,5 +2,5 @@
 if exist results.txt (
     del results.txt
 )
-main.py
-second.py
+python main.py
+python second.py
